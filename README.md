@@ -5,4 +5,5 @@ The link of the website <br/>
 http://cupoftea.freecluster.eu/
 
 LIBRARIES <br/>
-https://fontawesome.com/
+https://fontawesome.com/ <br/>
+https://github.com/woocommerce/FlexSlider/issues
